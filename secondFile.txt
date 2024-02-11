@@ -1,9 +1,2 @@
 hello
 breakllo
-
-
-
-
-
-.
->>>>>>> refs/remotes/origin/main
